@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The peace-maker: or Christian reconciler. Being the breathings of a troubled spirit, sadly considering the woful calamities, grievous confusions, unnatural enmity, and impendent ruine, of the people of these three (sometimes famous) nations of England, Scotland and Ireland. By a lover of truth and peace.</title>
+         </titleStmt>
+         <extent>Approx. 74KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91544</idno><idno type="EEBO-CITATION">99872832</idno>
+  <idno type="VID">168713</idno>
+  <idno type="EEBO-PROQUEST">2240943265</idno>
+  
+            <idno type="STC">Wing P921</idno>
+            <idno type="STC">Thomason E1000_10</idno>
+            <idno type="STC">ESTC R5300</idno>
+            <idno type="PROQUEST">99872832</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872832e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91544)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168713)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E1000[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The peace-maker: or Christian reconciler. Being the breathings of a troubled spirit, sadly considering the woful calamities, grievous confusions, unnatural enmity, and impendent ruine, of the people of these three (sometimes famous) nations of England, Scotland and Ireland. By a lover of truth and peace.</title>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed in the year,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660. [i.e. 1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "October. 14. 1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  History, (17th century) --  Early works to 1800.</term>
+               <term type="topical_term">Christian union --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168713:1"/>
+            <p> THE PEACE-MAKER: OR Christian Reconciler.</p>
+            <p>
+               <hi>Being</hi> The Breathings of a Troubled Spirit, sadly considering the woful Calamities, grievous Confusions, unnatural Enmity, and impen<g ref="char:EOLhyphen"/>dent Ruine, of the People of these three (some<g ref="char:EOLhyphen"/>times Famous) Nations of <hi>England, Scotland</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>BY A Lover of Truth and Peace.</p>
+            <q>
+               <bibl>Matth. 5. 9.</bibl>
+               <p>
+                  <hi>Blessed are the Peace-makers, for they shall be cal<g ref="char:EOLhyphen"/>led the Children of God.</hi>
+               </p>
+               <bibl>Zech. 8. 19.</bibl>
+               <p>
+                  <hi>—Therefore love the Truth and Peace.</hi>
+               </p>
+               <bibl>Heb. 12. 14.</bibl>
+               <p>
+                  <hi>Follow Peace with all men, and Holiness, without which no man shall see the Lord.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year 1660.</p>
+            <pb facs="tcp:168713:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:168713:2"/>
+            <head>A Word to the Reader in general.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hou seest the Title is inge<g ref="char:EOLhyphen"/>nuous and seasonable, Peace-making and Re<g ref="char:EOLhyphen"/>conciliation in times of deplorable Wars and Op<g ref="char:EOLhyphen"/>positions, not among Enemies and Aliens, but among Country men, near neighbours, and Christians; but the work is short and sudden. Let thy Candor, I pray thee, be therefore manifested, in not expecting a gorgeous trimming to a Mourning Gar<g ref="char:EOLhyphen"/>ment,
+<pb facs="tcp:168713:3"/> or golden Phrases in black lines. Be but as sad and serious in perusal of these Essayes, as the unworthy Author was in musing them; and I shall not doubt some good event.</p>
+            <closer>Consider what I say, and the Lord give thee understanding in all things.</closer>
+         </div>
+      </front>
+      <body>
+         <div type="address_to_Parliament">
+            <pb n="1" facs="tcp:168713:3"/>
+            <head>
+               <hi>The Author</hi>'s <hi>humble Address, to the Right Honourable the Members of Parliament, Now sitting at</hi> Westminster.</head>
+            <opener>
+               <salute>Noble Patriots,</salute>
+            </opener>
+            <p>
+               <hi>YE suffer</hi>
+               <note n="a" place="margin">2 Cor. 11. 19.</note>
+               <hi>fools gladly, seeing ye your selves are wise.</hi> The Press seems now to have equal liberty with the Conscience. You are favourably pleased to receive into your hands, (if I be not misinformed) as you go to the House, such Papers as are tendred, of Models, Repre<g ref="char:EOLhyphen"/>sentations, Petitions Proposals, <hi>&amp;c.</hi> of common concernment: and indeed, it is a good way to inform your selves of the state of all affairs, that you may know the better how <hi>to loose the bands</hi>
+               <note n="b" place="margin">Isai. 58. 6.</note>
+               <hi>of wickedness, to undoe the heavy burdens, to let the oppressed go free, and to break every Yoak.</hi> Be pleased therefore (worthy Senators) to deign this Paper also the perusal; and if in any wise, it may be serviceable to the glory of God, and publick peace of Church and State, I have my end: I have concealed my name on purpose, that the Subject might not receive worse entertainment for my sake; but this I cannot conceal, <hi>viz.</hi> that I am known both in the flesh, and in the Lord, to some of you; for whom I have put up many an earnest Supplication to the Throne of Grace, that the Lord would keep you from evil, and make you healers of the breaches, and repairers of paths to dwell in. But Oh my Bowels! my Bowels! I am pained at my very
+<pb n="2" facs="tcp:168713:4"/> heart, I cannot hold my peace, because of the horrible unnatu<g ref="char:EOLhyphen"/>ral breaches, divisions, and confusions that are among us. Were it against the <hi>Turk</hi> or <hi>Pope</hi> that we were at War and defiance, I should hold my peace; though we are commanded to <note n="c" place="margin">Heb. 12. 14.</note>
+               <hi>follow peace with all men,</hi> and to <note n="d" place="margin">Mat. 5. 44.</note>
+               <hi>love our enemies;</hi> but it is one Country<g ref="char:EOLhyphen"/>man against another, one English man against another; yea, one Christian against another. The Case was so stated once, as the War which we maintained was only against the enemies of our just liberties and properties, the evil Counsellors of the Late King who would have begged us for fools, and sold us for slaves; whence is this monstrous change, that our best friends in the beginning of the War, are become our worst enemies in the latter end there<g ref="char:EOLhyphen"/>of? O that I could say it were the end! and that this might be the last bloodshed in <hi>England, Scotland,</hi> and <hi>Ireland! O tempora! O Mores!</hi> How are we slidden back, like a backsliding heyfer! yea, how are we sliding back with a perpetual backsliding! It seemeth, that either the state of our Case and quarrel is changed, or we are changed, or some of our old friends are altered in their judgment and affection: The Lord in mercy help us all, to see our re<g ref="char:EOLhyphen"/>bellions against his Majesty, who justly thus dasheth us one a<g ref="char:EOLhyphen"/>gainst another. For <hi>French</hi> men, <hi>Spaniards, Turks, Heighlanders,</hi> and <hi>Irish-</hi>Redshanks to be cruel and barbarous toward midland English men, were very lamentable; but for the better sort and size of English men to be fierce and cruel one against another; yea, to behold the bleeding goary wounds of their Christian Bre<g ref="char:EOLhyphen"/>thren, and dear Countrymen, with dry eyes and undaunted spi<g ref="char:EOLhyphen"/>rits, cannot but be intollerable to Sons of Peace, redeemed by the precious blood of the Lord Jesus Christ the Prince of Peace, and called unto his Kingdome and Glory, by his Gospel of Peace. <hi>O thou</hi>
+               <note n="e" place="margin">Jer. 47. 6.</note>
+               <hi>Sword of the Lord, how long will it be, ere thou be quiet? put up thy self into thy Scabbard, rest and be still.</hi> But how can it be quiet, seeing the Lord hath given it a charge against <hi>England,</hi> and against the people thereof? there hath he appointed it. Cer<g ref="char:EOLhyphen"/>tainly, the sins of the people of these Nations have been hainous provocations, or else the most righteous and merciful Lord would never have given us up to such astonishing and desolating judg<g ref="char:EOLhyphen"/>ments.</p>
+            <pb n="3" facs="tcp:168713:4"/>
+            <p>
+               <hi>Honoured Gentlemen,</hi> Ye were called together at first, to be Healers and Saviours to these bleeding Nations; and ye only are left, sitting in the Parliament House, as good Physicians, to apply wholesome Medicines, to stench our bleeding wounds, and sound<g ref="char:EOLhyphen"/>ly to heal the breach of the daughter of our people. Let your ears and hearts therefore, I beseech you for the Lords sake, be open to hear and pity the doleful cries, and great grievances, of the rem<g ref="char:EOLhyphen"/>nant of your poor subjects, and quit your selvs like men of wisdome and worth, in searching out, and curing all our Maladies. Let that axiom of Divine Wisdome sink into all your hearts, Pro. 12. 20. <hi>Deceit is in the heart of them that Imagine evil; but to the Coun<g ref="char:EOLhyphen"/>sellors of peace is joy.</hi> Ye are Vicegents to the God of Peace; yea, he hath said <note n="f" place="margin">Psal. 82. 6, 7.</note>
+               <hi>Ye are Gods, and all ye are Sons of the most high; but ye shall dye like men, and fall like one of the Princes.</hi> Oh, that in your wisdome and courage for God, and his glory, ye would more and more resemble him, who hath thus dignifyed you! You must one day lye down in the dust, and yield to death, as well as the meanest Peasant you govern; and then must give an account of your Stewardship to the most righteous Judg of all the earth, who is <note n="g" place="margin">Deut. 10 7.</note> no respecter of persons, nor taketh reward, but judgeth <note n="h" place="margin">1 Pet. 1. 17.</note> every one according to his works. Oh, that now in this your day, the Lord would make you know the things which concern your own, and the Nations peace! Be zealous, (O ye mighty men) in purging the Lords House, and these Lands, from those execrable abominations of Blasphemy, Perjury, Bloodshed, Athe<g ref="char:EOLhyphen"/>isme, Popery, contempt of the Gospel, and Ministry thereof, and other impieties, which now seem to go up and down with in<g ref="char:EOLhyphen"/>tollerable impudence in every part of the Land; remembring, that for these and such like provocations, the Land spewed out our former Princes and Prelates; and till there be a thorow Re<g ref="char:EOLhyphen"/>formation upon the wheel of zealous endeavours by your com<g ref="char:EOLhyphen"/>mand and countenance, running through all the parts of this Common-wealth, neither you nor we can expect an happy set<g ref="char:EOLhyphen"/>tlement. The Almighty God hath indeed in some sort vindi<g ref="char:EOLhyphen"/>cated before the Word your Honour, from that foul affront offered to you, by your Servants, some six years since: I pray God, give you eyes to see what evil you had done, demerit<g ref="char:EOLhyphen"/>ting that displeasure, and humble you for it; and the same
+<pb n="4" facs="tcp:168713:5"/> Lord who is the Almighty Counseller, and everlasting Father so guide you for the future by his holy Spirit, that ye may do <note n="i" place="margin">Ruth 4. 11.</note>
+               <hi>worthily in our Ephratah, and be famous in our Bethlehem;</hi> that by you, the old waste <note n="k" place="margin">Isai. 58. 12.</note> places may be built, the foundations of ma<g ref="char:EOLhyphen"/>ny generations raised up, whereby the name and fame of that renowned Long Parliament of <hi>England,</hi> may, in your worthy acts be perpetuated to the end of the World, and all generations to come may call you Blessed.</p>
+            <p>Grave Counsellers, The report in the Country is, by your own allowance, as we presume, that you are now debating the settlement of the Government of this Common-wealth; and you have, by your Order lately engaged the good people of these Nations to joyn with you, in humbling their souls, and seeking the blessing of God upon your Counsels: And ye had to my knowledg many fervent Prayers put up to the Throne of Grace for you. Pardon me, if I put you in remembrance, that the Religion and Peace, the just property and liberty of the people, to be managed by their own free and equal Representative, are some of the chief con<g ref="char:EOLhyphen"/>cernments which you are to provide for, and secure, by the Wis<g ref="char:EOLhyphen"/>dome of God in you, in your intended settlement. The Lord of all mercy help you so; that if you cannot fully build the house for want of Workmen; yet, with <hi>David,</hi> you may provide such store of materials, as your successors, the next Parliament may, like <hi>Solomon,</hi> build, and finish it chearfully, and gloriously: Ye need not (Sirs) be discouraged by any misgivings of your own hearts, or Menaces from your enemies; if your wayes please the Lord, and you have done, and still do the things that are good in his sight; but if ye do evil, behold the <note n="l" place="margin">Jam. 5. 9.</note>
+               <hi>Judg standeth before the door;</hi> yea, <note n="m" place="margin">Psal. 82. 1.</note>
+               <hi>God standeth in the assembly of the mighty, he judg<g ref="char:EOLhyphen"/>eth among the Gods.</hi>
+            </p>
+            <q>
+               <hi>Be wise now therefore, O ye Kings; be instructed ye Judges of the earth. Serve the Lord with fear, and rejoyce with trembling. Kiss the Son, lest he be angry; and ye perish from the way, when his wrath is kindled but a little: Blessed are all they that put their trust in him,</hi>
+               <bibl>Psal. 2. 10, 11, 12.</bibl>
+            </q>
+         </div>
+         <div type="address_to_the_clergy">
+            <pb n="5" facs="tcp:168713:5"/>
+            <head>
+               <hi>A seasonable Word, in these unseasonable Times, to all the Ministers, and Professors of the Gospel of Christ, within the Dominions of</hi> England, Scotland, <hi>and</hi> Ireland.</head>
+            <opener>
+               <salute>Reverend, and dearly Beloved, in the Lord:</salute>
+            </opener>
+            <p>VVHen I meditated upon my Bed, on the exceeding great and glorious Priviledges of the Gospel, vouchsafed by the Father of Mercy, through his Son Jesus Christ, to the People of these Nations, from the first dawning of Reformation, unto this day; and how the Lord hath more powerfully appeared among us, in the pure and search<g ref="char:EOLhyphen"/>ing dispensation thereof, of late years, by increasing the gifts of his Spirit in his servants, than in dayes of old; how emi<g ref="char:EOLhyphen"/>nently he hath bared his holy Arm, for the salvation of the peo<g ref="char:EOLhyphen"/>ple called by his name, and vindication of his glorious Truth, from the hands of ravenous Wolves of all kinds; and withall, how unsuitable, disproportionable, and unworthy our conver<g ref="char:EOLhyphen"/>sations have been to those inestimable blessings: It made me sadly to remember that saying of the Lord, by his Prophet to <note n="a" place="margin">Amos 3. 2.</note> Israel of old. <hi>You only have I known of all the families of the earth; therefore will I punish you for all your iniquities:</hi> And that grievous upbraide, which our blessed Lord and Saviour Jesus Christ himself gave to the Cities, wherein most of his mighty works were done, because they repented not. <hi>Wo</hi>
+               <note n="b" place="margin">Mat. 11. 20, 21, 22, 23, 24.</note>
+               <hi>be unto thee</hi> Cho<g ref="char:EOLhyphen"/>razin, <hi>wo be unto thee</hi> Bethsaida; <hi>for if the mighty works which were done in you, had been done in Tyre and Sydon, they would have repented long agoe, in Sack-cloath and Ashes. But I say unto you, it shall be more tolerable for Tyre and Sidon, at the day of judgment, than for you. And thou</hi> Capernaum, <hi>which art exalted unto Heaven, shalt be brought down to Hell: For if the mighty works which have been done in thee, had been done in</hi>
+               <pb n="6" facs="tcp:168713:6"/> Sodom, <hi>it would have remained unto this day. But I say unto you, that it shall be more tolerable for the Land of</hi> Sodom, <hi>in the day of judgment, than for thee.</hi>
+            </p>
+            <p>The Consideration whereof, struck me with astonishment, and trembling at the unsearchable, most wise, most holy, and spiritual judgments of the almighty; inflicted upon the greater part of the people of these Nations, giving them up to a repro<g ref="char:EOLhyphen"/>bate sence, and hardness of heart, under their customary sins of Idolatry, Superstition, Profanation of Gods sacred Name and Ordinances, contempt of his Gospel, mispending of his Sab<g ref="char:EOLhyphen"/>bath, drunkenness, uncleanness, malice, prophane swearing and cursing, and other impieties, under such powerful and saving means of Conversion and Reformation; and upon a very con<g ref="char:EOLhyphen"/>siderable part, of the more knowing Professors, giving them up to damnable heresies and blasphemies, unchristian, yea, unnatural divisions, emulations, separations, factions, seditions, and con<g ref="char:EOLhyphen"/>tentions, to the great reproach of the sacred name of God, and dishonour of the glorious Gospel of Truth and Peace, which he hath graciously revealed to us.</p>
+            <p>Whereupon I thought nothing more seasonable at this time, than for the true Sons of Peace, who have the sence of these sore calamities set upon their hearts, to awaken themselves, and to give warning to others, to lay to heart the threatned ruine, which inevitably is like to fall upon us, if God in mercy, and we by our timely Reformation, prevent it not. To which end, I have earnestly desired in my heart, that our wise and gracious God, the God of the spirits of all flesh, would stir up the spirits of some of his faithful Ministers, to propound from the Word of the Lord, some healing grounds, and expedients, of general use to all that fear the Lord in these Nations; speedily to be put in Practise, before <note n="c" place="margin">2 Chr. 36. 16.</note> the wrath of God arise against his people, and there be no re<g ref="char:EOLhyphen"/>medy. For, as on the one hand, there is yet <note n="d" place="margin">Bzr. 10. 2.</note> hope in our Israel, con<g ref="char:EOLhyphen"/>cerning this thing, because our final overthrow is (for the present) deferred; so, on the other hand, if we do not, to <note n="e" place="margin">Heb. 3. 13.</note> day, while it is called to day, sincerely set upon this work of Reformation, accord<g ref="char:EOLhyphen"/>ing to Gods will; we do not know how suddenly the Lord may give us up to reap the fruit of our doings, <hi>And swear in</hi>
+               <note n="f" place="margin">Heb. 3. 11.</note>
+               <hi>his wrath, that we shall never enter into his rest.</hi> No man can deny,
+<pb n="7" facs="tcp:168713:6"/> who hath the least glimps of Gospel-light in him; that God hath already begun to plague us, with many sore and grievous judg<g ref="char:EOLhyphen"/>ments, both spiritual and corporal; yea, and these have been con<g ref="char:EOLhyphen"/>tinued, renewed, encreased, for many years past, in the open sight of all the world; and no doubt but the Lord will have, and good reason he should, his end of us, either in our effectual conversion, or utter desolation; for he hath said, <hi>that,</hi>
+               <note n="g" place="margin">1 Sam. 3. 12.</note>
+               <hi>when he begins, he will also make an end.</hi>
+            </p>
+            <p>These things being deeply set upon my heart, and not know<g ref="char:EOLhyphen"/>ing any thing offered in this juncture of affairs, by more wise and able Pens to this purpose; finding my self strongly bent to the discharge of my duty, in my place, and fearing the sad event of delayes of this nature: I think my self bound to cast my mite into the Lords Treasury, by publishing these following Me<g ref="char:EOLhyphen"/>ditations; to the end, that what is agreeable to the Will of God, may speedily be practised, and such other use may be made of these notions, as may be for the Glory of Christ, and happy union of all the faithful in Gospel-fellowship; and what is contrary to the word, may be discovered, and confuted, and some better way propounded, for the healing of our brea<g ref="char:EOLhyphen"/>ches.</p>
+            <p>I have for many years past, been convinced of two extreams, which the Professors of these Nations run into, both which do hinder the work of Reformation, and our Churches Peace; and if I should say, they do also interrupt the peaceable and happy settlement of our civil Government; I think no Godly wise man would condemn me. One is this, That we generally pretend to God, Christ, Gospel, Kingdome of Heaven, holy Ordinances, and many other glorious things of Religion; and yet do very few of us yield our selves up to God in Faith and Obedience; nor care to have our hearts and lives reformed, according to his holy word. The other is, That some of us whom God hath savingly wrought upon, and made willing to become wholy his, and to walk in his fear, are so covetously careful of our own happiness, that we forget to practise Charity to our Neighbours, in seeking their salvation, as well as our own. This being a known wile of the Devil the arch Enemy of God and his people, (who can transform himself into an Angel of light) when he can
+<pb n="8" facs="tcp:168713:7"/> no longer prevail, to keep people in prophaneness and igno<g ref="char:EOLhyphen"/>rance, he seeks to mislead them by their fiery zeal. Hence it is, that some Ministers, and Christians (for so I account all that are baptized into Christ) sit still, and do nothing at all in Re<g ref="char:EOLhyphen"/>formation, waiting for what shall be setled by Authority; others out of their furious zeal, run upon such courses as have neither foundation, nor so much as footing in the Scripture of truth; which are so far from healing our breaches, that they widen and multiply them; and are so far from pacifying the Lords anger, that (I fear) they provoke him more to wrath against these Nations. For, as the prophaneness of formal Gospellers, so the spiritual giddiness and uncharitable violence of such as are better instructed, are both condemned and menaced by the Word of God: And therefore, these Nations cannot expect healing, till the Lord do remember his promise; where he hath said, <hi>I will</hi>
+               <note n="h" place="margin">J<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. 33. 6.</note>
+               <hi>bring it health and cure, and I will cure them, and will reveal unto them the abundance of peace and truth. And I will turn</hi>
+               <note n="i" place="margin">Z<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ph. 3. 9.</note>
+               <hi>to the people a pure Language, that they may call upon the Name of the Lord, to serve him with one consent.</hi> To the ac<g ref="char:EOLhyphen"/>complishment whereof all the Servants of Christ ought to be subservient, by their Prayers and endeavours.</p>
+            <p>These following Essayes are, therefore, humbly offered to your grave and Christian Consideration, out of desire to promote the Glory of God, and unity of the Spirit, in the bond of Peace; beseeching you all in the Bowels of Jesus Christ, to peruse them without prejudice or malice; weigh them impartially in the ballance of the Sanctuary, and then judg of them, as you think they deserve; assuring you, that I have no other end in their publication, then hath been before mentioned. And therefore shall conclude this Preface, with the words of the Apostle. <bibl>Rom. 14. 19.</bibl>
+               <q>
+                  <hi>Let us therefore follow after the things which make for Peace, and things wherewith one may edifie ano<g ref="char:EOLhyphen"/>ther.</hi>
+               </q> And <bibl>Rom. 16. 17, 18.</bibl>
+               <q>
+                  <hi>Now I beseech you, brethren, mark them which cause divisions and offences, contrary to the Do<g ref="char:EOLhyphen"/>ctrine which ye have learned and avoid them: For they that are such serve not our Lord Jesus Christ, but their own Belly; and by good words, and fair speeches deceive the hearts of the simple.</hi>
+               </q>
+            </p>
+         </div>
+         <div type="central_tenets_of_Christianity">
+            <pb n="9" facs="tcp:168713:7"/>
+            <head>
+               <hi>Certain Grounds, Or General Positions gathered from the Word of Truth, as a Foundation of Union and Peace, among all Professors of the Christi<g ref="char:EOLhyphen"/>an Protestant Reformed Religion: Humbly pre<g ref="char:EOLhyphen"/>sented to the Godly, Wise, in order to healing all differences,</hi> &amp;c.</head>
+            <div n="1" type="item">
+               <head>1.</head>
+               <p>THat the mystical body of Christ is <note n="*" place="margin">Eph. 1. 10. &amp; 2 14. Gal. 3. 18. 1 Cor. 12 13. Cant 6. 9.</note> but one, whereof he <note n="†" place="margin">Eph. 2. 21.</note> only is the head; which unity, all the visible members thereof ought to <note n="“" place="margin">Eph. 4. 1, 2, 3 &amp;c. Acts 1. 14. Acts 2. 1, 46. Acts 4. 32.</note> maintain in their fellowship one with another, here in this World; that so the state of the Church here may represent the state thereof in Heaven, where they all agree in one.</p>
+            </div>
+            <div n="2" type="item">
+               <head>2.</head>
+               <p>That the real Members of the mystical body of Christ, are only known to Christ and themselves in particular, when they are effectually called by grace in Christ; but one Christian cannot possibly <note n="*" place="margin">1 Cor. 2. 11.</note> know infallibly, and by judgment of certainty, the sincerity of another mans heart; though by the judgment of charity, he may, and ought to judg well of them that do well; and hope <note n="†" place="margin">1 Cor. 13. 7. w<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th 1 Tim. 2. 4</note> well of all, except such as are certainly known to <note n="o" place="margin">1 Joh. 5. 16.</note> have sinned against the Holy-Ghost.</p>
+            </div>
+            <div n="3" type="item">
+               <head>3.</head>
+               <p>That the foundation of Church-Communion, among the Mem<g ref="char:EOLhyphen"/>bers of Christ in this World, is not real grace; but a <note n="†" place="margin">2 Cor. 9. 13. Mar. 16▪ 18.</note> professed subjection to Jesus Christ, upon the terms of the Covenant of grace revealed in the Gospel.</p>
+            </div>
+            <div n="4" type="item">
+               <pb n="10" facs="tcp:168713:8"/>
+               <head>4.</head>
+               <p>That that Saintship and Faith, which gives a Soul interest in Christ and his benefits is not only external, but also internal; for <note n="a" place="margin">Ro. <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0. 9, 10.</note> both are necessary to salvation: But that Saintship and Faith which giveth a man right to the outward Ordinances and priviledges of the visible Church, is but <note n="b" place="margin">Act. 8. 13. with</note> external, by Baptisme, and professed obedience; for it is to <note n="c" place="margin">Deut. 29. 29. 1 Sam. 16. 7.</note> men, who <note n="d" place="margin">Jer. 17. 10.</note> cannot, may not judg the heart.</p>
+            </div>
+            <div n="5" type="item">
+               <head>5.</head>
+               <p>That the holy <note n="e" place="margin">2 Tim. 3. 15, 16. Eph. 2 20.</note> Scriptures do plainly teach, what we are to be<g ref="char:EOLhyphen"/>lieve, and what to do, and there is no other Canon for the con<g ref="char:EOLhyphen"/>stitution, or discipline of the Church: Yet nevertheless, all circumstances about Gods worship, and ordering Church-affairs, are not particularly directed by the word, but left under those general Rules. <note n="f" place="margin">Phil. 4. 8. 1 Cor. 14. 40. Rom. 14. 19.</note>
+                  <hi>Whatsoever things are true, whatsoever things are honest,</hi> &amp;c. <hi>Let all things be done decently, and in order; let us follow after the things that make for Peace, and things where<g ref="char:EOLhyphen"/>with one may edifie another,</hi> and the like.</p>
+            </div>
+            <div n="6" type="item">
+               <head>6.</head>
+               <p>That, in matters of convenience about Church-order, which the Scripture particularly determineth not; we must be guided by the nature, use, and end of the thing it self, if it be an Ordi<g ref="char:EOLhyphen"/>nance of God; the <note n="*" place="margin">1 Cor. 11. 14.</note> light of nature, and the most uncontroverted practise of the Primitive or reformed Church of Christ; pro<g ref="char:EOLhyphen"/>vided, that we keep to the general rules of Scripture and make no <note n="g" place="margin">Prov. 24. 21.</note> needless innovations, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="7" type="item">
+               <head>7.</head>
+               <p>That, as the succession of the Catholick visible Church of God, before the coming of Christ and after the call of <hi>Abraham,</hi> was continued, in the natural posterity of <hi>Abraham</hi> by Cir<g ref="char:EOLhyphen"/>cumcision and the other Ecclesiastical rites of that time; so the succession of the Catholick visible Church of Christ, from the coming of Christ, to the Worlds end, is to be continued among all Nations, whom the Lord shall call to the knowledg of his truth, <note n="h" place="margin">Mat. 28.. 19</note> by Baptisme, and the other Ordinances of the Gospel.</p>
+            </div>
+            <div n="8" type="item">
+               <head>8.</head>
+               <p>That as the distinguishing Character, between external belie<g ref="char:EOLhyphen"/>vers and infidels, under the old Testament, was <note n="g" place="margin">Exod. 12. 48. 1 Sam. 17. 26.</note> circumcision, and
+<pb n="11" facs="tcp:168713:8"/> uncircumcision; so the distinguishing Character between external believers and infidels, under the Gospel, is <note n="h" place="margin">Mat. 28. 19. Col. 2. 11, 12. Rom. 6. 3, 4. Gal. 3. 27.</note> baptised, and not baptised. And whatsoever priviledg of the Covenant of Grace, Circumcision in the Old Testament did enter a Person, Family, or Nation to, or seal to them; and what duty it engaged them then to, who received it, the same doth Baptisme under the New Te<g ref="char:EOLhyphen"/>stament.</p>
+            </div>
+            <div n="9" type="item">
+               <head>9.</head>
+               <p>That the Catholick visible Church of Christ consisteth of all the visible Disciples of Christ, external believers in Christ, or baptised Saints of Christ, in the whole World; to whom the Ministry of the Gospel, and Ordinances of Christ, are <note n="i" place="margin">1 Cor. 12 18. Eph. 4. 12. Act. 20. 28.</note> first given as the chief subject, and first recipient of them: Of which Church there is, may be, must be, a <note n="k" place="margin">Mat. 28. 30.</note> succession to the end of the World.</p>
+            </div>
+            <div n="10" type="item">
+               <head>10.</head>
+               <p>That particular Churches are but homogeneal parts of the Church Catholick; and therefore ought to be so gathered and or<g ref="char:EOLhyphen"/>dered in all things, as to preserve their relation to, and correspon<g ref="char:EOLhyphen"/>dence with the Church Catholick; for <note n="l" place="margin">Eph. 4. 3. Act 20. 28. Eph. 4. 12. 16.</note> the edification of the whole body of Christ.</p>
+            </div>
+            <div n="11" type="item">
+               <head>11.</head>
+               <p>That in respect of diversity of Nations and Languages, it is a most rational and religious course, for the Members of the Church of each Nation, and Language, to maintain an orderly Com<g ref="char:EOLhyphen"/>munion, and correspondence among themselves, in Church affairs; yet still so, as to preserve the Catholick interest, and fellowship, in the use of those Languages that are common; in which respect, the visible Members of the Church in <hi>England,</hi> may be called for distinctions sake, the <note n="m" place="margin">Rev. 2. 1.</note>
+                  <hi>Church of England,</hi> or <note n="n" place="margin">Rev. 2. 12.</note> in <hi>England,</hi> and so of <hi>France, Italy,</hi> &amp;c.</p>
+            </div>
+            <div n="12" type="item">
+               <head>12.</head>
+               <p>That because every particular Congregation, of lesser or grea<g ref="char:EOLhyphen"/>ter circumference, hath a kindly resemblance and intimate adhe<g ref="char:EOLhyphen"/>rence and relation to the Church Universal; therefore, every Church-Assembly may be called the Church of, or at, or in such a Nation, Province, City, Town, or Parish, where the same is in being, and all together collectively one Church; from which
+<pb n="12" facs="tcp:168713:9"/> distinction doth justly spring the name of Church, or Churches, according as the occasion offereth, as the Church of God, or Chur<g ref="char:EOLhyphen"/>ches of Christ, the Church, or Churches of <hi>England,</hi> and that by <note n="o" place="margin">Mat. 1<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 17. Act. 8. 1. Act. 14. 23. Col. 4. 16. 1 Cor. 1. 2. Rom. 16. 16. R<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>v. 1. 4. Rev. 2. 7. <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>3.</note> warrant from Scripture.</p>
+            </div>
+            <div n="13" type="item">
+               <head>13.</head>
+               <p>That the People of any Nation, Province, Island, County, or particular place, or Parish, holding forth the word of truth, bapti<g ref="char:EOLhyphen"/>sed into the name of Christ, and professing subjection to Christ, as their spiritual head and chief Bishop; are a truly constituted Church, from which no Christian can lawfully separate himself, in the publick worship and service of God; because to be the <note n="p" place="margin">1 Tim. 3. 15.</note> pillar and ground of the truth, is an undoubted property, and Character, of the house of God, the Church of the living God; and every such Church is a <note n="q" place="margin">R<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>v. 1. <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 20</note> golden Candlestick, to whom Christ hath <note n="r" place="margin">Rev. 2. 1. Ma<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 28. 20. Mat. 18. 20. 2 Cor 6. 16.</note> promised his gracious presence.</p>
+            </div>
+            <div n="14" type="item">
+               <head>14.</head>
+               <p>That the only outward means, which God hath ordinarily used, <note n="s" place="margin">Rom. 10. 14, 15, 17. 1 Cor. 3. 5. 6. Heb. 12. 27, 28.</note> the planting and watering of the New Testament Church, from the resurrection of Christ, to the end of the World, and which by the Gospel is declared to stand; is a continued <note n="u" place="margin">Mat. 28. 20. Eph. 4. 11, 12, 13.</note> succession of the ministry of the Gospel, beginning in the Apostles, and other extraordinary men of their time, and continued in ordinary Pastors and Teachers, from them <note n="w" place="margin">2 Tim. 2 2</note> downward, through all ages after.</p>
+            </div>
+            <div n="15" type="item">
+               <head>15.</head>
+               <p>That the ministerial gifts and office are Christs own donation, to his body the Church in general; sometimes by extraordinary and immediate communication and call, as in Apostles, Prophets, Evangelists, in Primitive times; and sometimes by ordinary, as in Pastors and Teachers, to the end of the World.</p>
+            </div>
+            <div n="16" type="item">
+               <head>16.</head>
+               <p>That Pastors and Teachers are but several Gifts, and Administrati<g ref="char:EOLhyphen"/>ons, in the same Church-Officers; and not an enumeration, or consti<g ref="char:EOLhyphen"/>tution of several officers, in, to, or for the Church; as appears by the different expression of them, from Apostles, Prophets, Evangelists, in <hi>Eph.</hi> 4. 11. <note n="a" place="margin">And he gave some Apostles, and some Pro<g ref="char:EOLhyphen"/>phets, and some Evangelists, and some Pa<g ref="char:EOLhyphen"/>stors, and Tea<g ref="char:EOLhyphen"/>chers; not and some Pastors, and some Tea<g ref="char:EOLhyphen"/>chers; which must have been, if Pastor had been one order of Office, and Teacher another.</note> And the Apostles comprehending both those two, under <note n="b" place="margin">God hath set some in the Church; first Apostles, secondarily Prophers, thirdly Teachers; not <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>irdly Pastors: Therefore Pastors and Teachers are one Office, though divers gifts and Ad<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inistrations.</note> one office. 1 <hi>Cor.</hi> 12. 28. Whereby it is manifest, that the ordinary, standing Ministers of the Gospel, are of like office and place in the Church of God.</p>
+            </div>
+            <div n="17" type="item">
+               <pb n="13" facs="tcp:168713:9"/>
+               <head>17.</head>
+               <p>That Christ hath left no other standing way or means in his New Testament, for the providing, approving, and solemn setting apart of ordinary Pastors and Teachers, for the service of the Church of Christ, but the <note n="c" place="margin">Act. 14. 23. 1 Tim. 4. 14. Tit. 1. 5. Heb. 6. 2. 2 Tim. 2. <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 1 Tim. 3. 10 1 Tim. 5. <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>2.</note> Suffrage and Imposition of the hands of the Presbytery. And that all such pretenders to the Ministry of the Gospel, who pass not that standing Probation and Ordi<g ref="char:EOLhyphen"/>nation, had need be well armed to prove an extraordinary or im<g ref="char:EOLhyphen"/>mediate Mission and Commission, or else they are like to answer their bold intrusion.</p>
+            </div>
+            <div n="18" type="item">
+               <head>18.</head>
+               <p>That the Ministry of the Gospel is in order of nature before the <note n="*" place="margin">This appears in Christs own gathering his Disciples first: and after the Apostles ga<g ref="char:EOLhyphen"/>thering other churches, all springing out of the mother Church at Jerusalem. The Apostles laid the foun<g ref="char:EOLhyphen"/>dation, their successors build thereon.</note> gathering or constitution of a particular Church into outward Fel<g ref="char:EOLhyphen"/>lowship, though not before the being of Church-members; for it is by the Ministry that the Churches are gathered into visible or<g ref="char:EOLhyphen"/>der. Howbeit the Ministers are both Members of, and servants to and for the Church in the Lord: Therefore for any number of Christians, gathered together in one place, not having a competent number of Ordained Presbyters going before them (without which they are no Organical Body) to chuse, approve and ordain any one to be their particular Pastor, is a practice which the holy Word of God gives not the least warrant for, either expresly or by con<g ref="char:EOLhyphen"/>sequence.</p>
+            </div>
+            <div n="19" type="item">
+               <head>19.</head>
+               <p>That the <note n="d" place="margin">Rev. 12. 5, and 15. 4. Gal. 3. 8. Luk. 24. 47. Mar. 13. 10. Hag. 2. 7. Dan. 7. 14. Mat. 28. 19. Isa. 2. 2. Gen. 18. <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8. and 22. 18.</note> Nations of the world, or any Nation in the world, are as capable of the benefits of the Covenant of Gracemade with <hi>A<g ref="char:EOLhyphen"/>braham,</hi> as any particular person or family are; and therefore when ever God sends his Gospel of Truth to a Nation, and the people and Governors of that Nation do testifie their sub<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ection thereto, by being themselves and their children baptized, why may not they be a <note n="e" place="margin">1 Pet. 2. 9. Mat. 21. 43.</note> National Church, as wel as the Jews, without having any difference at all in the degrees of their Pastors and Teachers? I fear it is but a dirision which some put upon the Truth, who say, That a National Church must have a National Ministry, <hi>viz.</hi> Archbishops, Lord Bishops, &amp;c. as the Jewish National Church had High Priests, Chief Priests, &amp;c For I deny, any such Na<g ref="char:EOLhyphen"/>tional Ministers allowed by the Gospel; and I affirm, That Pa<g ref="char:EOLhyphen"/>stors and Teachers are Church Ministers, and not National Mini<g ref="char:EOLhyphen"/>sters;
+<pb n="14" facs="tcp:168713:10"/> yea, I know and believe, That they only are sufficient for the service of the Church (if there be but enough of them) if it were the greatest Nation, or all the Nations of the world, and the setting up of any other Ministers of the Word and Sacraments is Will-worship, and a presumptuous intrusion upon the Soveraign and Legislative power of Christ, the only King of <hi>Sion.</hi>
+               </p>
+            </div>
+            <div n="20" type="item">
+               <head>20.</head>
+               <p>That when ever God doth please to engage the Supreme Au<g ref="char:EOLhyphen"/>thority of any Nation to promote the Gospel and Kingdome of Christ in their Dominious (which is the <note n="(f)" place="margin">Psal. 2. 11. 12.</note> duty of Christian Prin<g ref="char:EOLhyphen"/>ces, and Parlaments to do, and the greatest <note n="(g)" place="margin">Isa. 49. 23.</note> blessing to a Nation when they do it) no more rational and religious course can possi<g ref="char:EOLhyphen"/>bly be devised, then a prudent and equitable distribution of the whole Land into particular Parishes, and setting an able Ordained Ministry over the people of every Parish, for the service of their souls, and Administration of Gods publick Ordinances, as occasion requireth, and setling a competent main tenance on them for that work, either by Tythes, certain Sallaries <note n="h" place="margin">Here the rea<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r is desired to note, That the Author is of o<g ref="char:EOLhyphen"/>pini<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n no<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wi<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h<g ref="char:EOLunhyphen"/>standing this condescention, That tythes a<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Christs proper porcion for th<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> maintenance of his service and Servants under the Gospel, and that it is very perillous for Christian Princes to aliena<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e them, as woful experience e<g ref="char:EOLhyphen"/>vinceth, where such alienation hath been made.</note>, or otherwise, so it be <note n="i" place="margin">1 Tim. 5. 17. 1 Thes. 5. 12, 13.</note> honorable and comfortable.</p>
+            </div>
+            <div n="21" type="item">
+               <head>21.</head>
+               <p>That it is a practise most tending to preservation of Order and Peace in the Church of God, for the Christians of every Parish, (except upon extraordinary occasions) to attend the publick Wor<g ref="char:EOLhyphen"/>ship of God in their own <note n="†" place="margin">Peoples disli<g ref="char:EOLhyphen"/>king of, or not being content<g ref="char:EOLhyphen"/>ed with their own Minister, if sound &amp; la<g ref="char:EOLhyphen"/>borious, shews. 1. Spiritual wantonness, giddiness, itch<g ref="char:EOLhyphen"/>ing ears, loath<g ref="char:EOLhyphen"/>ing, &amp;c. Pro. 27 7. 2 Tim. 4. 3. 2. Setting one above another having mens persons in ad<g ref="char:EOLhyphen"/>miratiō for ad<g ref="char:EOLhyphen"/>vantage, 1 Cor. 4. 6. Jam. 2. 1. 2 Cor. 4. 7.</note> Parish Assemblies, where divine Pro<g ref="char:EOLhyphen"/>vidence hath placed them: whereas the gathering of Members out of several Parishes (sometimes far distant one from another) into a particular Church-fellowship, reacheth not the ends of the Go<g ref="char:EOLhyphen"/>spel, Church or Ministry: Nor can a Pastor in case of such mon<g ref="char:EOLhyphen"/>strous and unlimited collection of Church-members, so conscio<g ref="char:EOLhyphen"/>nably and comfortably perform his duty to his flock, as by the for<g ref="char:EOLhyphen"/>mer Parochial order. Besides its no way consonant to the order of a flock, to have the sheep couching in several Folds, or depastu<g ref="char:EOLhyphen"/>ring at any time far off from one another; the same field and fold being proper for one and the same flock.</p>
+               <p n="3">3. Greater dependance on the Instrument then Efficient, &amp;c. 1 Cor. 2. 5.</p>
+            </div>
+            <div n="22" type="item">
+               <pb n="15" facs="tcp:168713:10"/>
+               <head>22.</head>
+               <p>That the gathering together of the several members of the Church of Christinhabiting one Nation, Province, County, City or Parish into particular Congregations, of different Forms, in opposi<g ref="char:EOLhyphen"/>tion one of another; as some under the Form of Prelacy; others under the Form of Presbytery; others under the Form of Independen<g ref="char:EOLhyphen"/>cy; others under the Form of Rebaptization, <hi>&amp;c.</hi> is no way a<g ref="char:EOLhyphen"/>greeable to the unity of the Body of Christ, nor doth it any way tend to the cherishing and maintenance of Love, Peace and Edifi<g ref="char:EOLhyphen"/>cation among Christians, which the Gospel requireth: but is ra<g ref="char:EOLhyphen"/>ther a practise tending directly to the fomenting and increasing of unnatural and uncharitable strifes, contentions, divisions, schisms and endless unprofitable Disputes; yea, to the ruine and over<g ref="char:EOLhyphen"/>throw of Christian fellowship. And therefore it incombeth all Gods wise and faithful servants, in their places, to find out of the Word of God, propound to others, and with all speed and dili<g ref="char:EOLhyphen"/>gence to put in practice some prudent Expedients, for the heal<g ref="char:EOLhyphen"/>ing of these, never enough to be lamented, breaches in the Church of God.</p>
+            </div>
+            <div n="23" type="item">
+               <head>23.</head>
+               <p>That it hath been the portion of the true Church of Christ un<g ref="char:EOLhyphen"/>der the Gospel, or at least a very considerable part thereof, to be for a time under the bondage of the great Antichrist, spiritual <hi>Egypt,</hi> and mystical <hi>Babylon;</hi> as the Church of old was in natural <hi>E<g ref="char:EOLhyphen"/>gypt</hi> and <hi>Babylon</hi>
+                  <note n="l" place="margin">Zech. 2. 7. Rev. 18. 4▪</note>; out of which spiritual bondage God doth by his word in the mouths of his faithful witnesses, call his people to cast off that spiritual Yoke, by a pure Reformation in Do<g ref="char:EOLhyphen"/>ctrine, Discipline and Worship, according to his word; but not to a new constitution, new Ministry, Baptisme, <hi>&amp;c.</hi> as if those had no being before. And that this is the work whereunto we are called in these last dayes of the Gospel-Church, wherein we ought to approve our selves to God and man.</p>
+            </div>
+            <div n="24" type="item">
+               <head>24.</head>
+               <p>That the visible Church of Christ, either general, or particular, may be, while militant on earth, grievously <note n="m" place="margin">Ezek. 16. 15, &amp;c. to the end. 1 Ep. of Cor. througout. Re<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. c. 2. 3. Tit. 1. 5.</note> corrupted in Doctrine, Discipline, worship of God; yet so long as it continues to worship the true God, in Trinity and Unity; to hold the Doctrines of Ju<g ref="char:EOLhyphen"/>stification, Sanctification, and Salvation by Christ only, to re<g ref="char:EOLhyphen"/>tain
+<pb n="16" facs="tcp:168713:11"/> their professed subjection to Christ, as their sole and only Lawgiver, head and husband; and to celebrate the standing Or<g ref="char:EOLhyphen"/>dinances of Christ, for substance, without imposing new Word, and Sacraments, which Christ never appointed; the Lord Christ doth not divorce them, nor withdraw his presence from them, but own<g ref="char:EOLhyphen"/>eth them as his Church, though he be displeased by their corrupti<g ref="char:EOLhyphen"/>on and apostacy. And therefore, so long as Christ vouchsafeth the presence of his Graces and Spirit to them, and owneth them as his Churches, and golden Candlesticks; his people ought not to separate from them in the worship of God, or deny fellowship with them, in that which is good; but rather to labour in their places the reformation of the Church, and with patience to wait for it, so long as the essential parts of the true Church remain in them, and until Christ do quite (<note n="n" place="margin">Rev. 2. 5.</note>) remove the Candlestick.</p>
+            </div>
+            <div n="25" type="item">
+               <head>25.</head>
+               <p>That separation from a true Church, for corruptions; or pick<g ref="char:EOLhyphen"/>ing out the choice and most useful Members of a true Church, yet diseased, of them to constitute a sound Church, is not the way to cure and heal, but to kill, ruine and destroy the whole body; and instead of constituting a true Church, of those select Mem<g ref="char:EOLhyphen"/>bers; make up a confused heap, of an uncharitable and unmerci<g ref="char:EOLhyphen"/>ful extraction.</p>
+            </div>
+            <div n="26" type="item">
+               <head>26.</head>
+               <p>That the Members of the true Church of Christ, may very much differ in opinion, and practise, touching the Doctrine Worship, and Discipline of the Church; through the dif<g ref="char:EOLhyphen"/>ferent degrees of light they have received from Christ; wherein the Church, and Ministers are to perform the part of a tender Mother and Nurses, as God doth of a loving Father; and the differ<g ref="char:EOLhyphen"/>ing Members, the part of unnatural and obedient children. And therefore, in such Cases, neither the Church should cast out her Members (especially if they plead the word for their warrant, and seem to be of tender conscience) without using all possible means for their Information and Reformation, and her Members declaring manifest obstinacy and pertinacy; nor the Members leave the Church, to build themselves up in their erroneous wayes, (though in their opinion right,) at any hand; especially, so long as they may enjoy their conscience untoucht, and are not enforced
+<pb n="17" facs="tcp:168713:11"/> to assent to, or act any thing contrary to their light received. For the New Testament of our Lord Jesus is plentifully stored with rules to direct all the Members of Christ, how to walk together in holy fellowship, and to please God.</p>
+            </div>
+            <div n="27" type="item">
+               <head>27.</head>
+               <p>That spiritual Pastors are bound to take an account of the children of the Church under their charge, of their proficiency in the knowledg of Christ, as they grow up to ripe years, and to put them in mind of their Covenant with God in Baptisme; to the end, that when they have attained ripe age, &amp; a competent under<g ref="char:EOLhyphen"/>standing of the Mysteries of Christ, they may be further confirm<g ref="char:EOLhyphen"/>ed in the Faith, by participation with the Church in the Lords Supper, and be admitted to further enjoyment of Gospel-privi<g ref="char:EOLhyphen"/>ledges in the fellowship of the Saints. And that all Disciples, baptized in their infancy, ought so soon as they attain to ripeness of age and understanding, to render themselves to the Mini<g ref="char:EOLhyphen"/>sters of the Church, for their examination and approbation; claiming the covenant priviledges, whereunto they were admitted by Baptisme, by their professed subjection to the Lord.</p>
+            </div>
+            <div n="28" type="item">
+               <head>28.</head>
+               <p>That in the renewal of our baptismal covenant, its all one in stubstance and effect, whether a Christian doth profess his Faith in Christ, and repentance toward God, by a continued discourse, or by a clear answer to questions propounded to that purpose, or by a declared (<note n="f" place="margin">Act. 2. 41.</note>) assent to a form of found words prepared as a standard: And it is indifferent, whether the same be done before the whole Congregation, or only in the presence of choice Mem<g ref="char:EOLhyphen"/>bers, to whom the care of the Church is committed; provided, that it be done before a competent <note n="*" place="margin">Mat 18. 16.</note> numble of witnesses, able to attest the same in case of falling away, either in Doctrine or Pra<g ref="char:EOLhyphen"/>ctise.</p>
+            </div>
+            <div n="29" type="item">
+               <head>29.</head>
+               <p>That it is very much to be wished, that all the faithful Mini<g ref="char:EOLhyphen"/>sters of Christ, in these three Nations of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> to whom it doth belong <hi>ex officio</hi> to take spiritual care of these things; would speedily endeavour, joyntly and severally in their places, the Reformation, and orderly settlement of the particular Congregations committed to their charge, according
+<pb n="18" facs="tcp:168713:12"/> to the general and particular rules of the word, wherein all possi<g ref="char:EOLhyphen"/>ble care would be had to seek Reconciliation with dissenting bre<g ref="char:EOLhyphen"/>thren; that our unhappy, and unchristian breaches and divisions may be healed; and that the Christians of these Nations may worship and serve the Lord with one mind and mouth. And this to be done with all possible speed, while we have hope of sparing, and time given us to repent of our crying sins, whereby the pure eyes of Gods glory are provoked against us; lest despi<g ref="char:EOLhyphen"/>sing so great salvation, he suddenly speak unto us in his wrath, <note n="*" place="margin">Psal. 2. 5.</note> and vex us in his sore displeasure.</p>
+            </div>
+            <div n="30" type="item">
+               <head>30.</head>
+               <p>That it is the duty of the Faithful Ministers, and people of God, in ordering Church-affairs, for the preservation of peace, order, and love, to (<note n="a" place="margin">Mat. 16. 24.</note>) deny their own wisdome, parts, opinions, appre<g ref="char:EOLhyphen"/>hensions, practises, credit, honour, and to yield, and (<note n="b" place="margin">Phil. 2. 3. 4, 5. Eph. 5. 21. Rom. 14. 10, 19.</note>) condescend one to another in the Lord, so far as possibly they can, with preser<g ref="char:EOLhyphen"/>vation of truth and holiness: And those who do the most of all submit to their brethren, and deny themselves for the peace and edification of the whole body of Christ, and maintenance of uni<g ref="char:EOLhyphen"/>ty in the Lord <note n="c" place="margin">Rom. 14. 17, 18. Heb. 12. 14.</note>, do approve themselves the most wise, and faithful in their places, and shall have the greatest degree of honour and praise, in the appearing of Jesus Christ.</p>
+            </div>
+            <div n="31" type="item">
+               <head>31.</head>
+               <p>
+                  <hi>That to quicken them and the people to their duty, in their places, these following Texts of Scripture are seriously to be per<g ref="char:EOLhyphen"/>used and made use of,</hi> viz. <hi>Psal.</hi> 2. 12. Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little: blessed are all they that put their trust in him. <hi>Luk.</hi> 19. 27. But those mine enemies which would not that I should reign over them, bring hither and flay them before me. <hi>Gal.</hi> 5. 14, 15. For all the Law is fulfilled in one word, even in this, Thou shalt love thy Neighbour as thy self. But if ye bite and devour one ano<g ref="char:EOLhyphen"/>ther, take heeed that ye be not consumed one of another. <hi>Mat.</hi> 12. 25. Every Kingdom divided against it self, is brought to deso<g ref="char:EOLhyphen"/>lation: and every City or house divided against it self, shall not stand. <hi>Jam.</hi> 3. 16, 17, 18. Where envying and strife is, there is confusion and every evil work. But the wisdome that is from above is, first pure, then peaceable, gentle, and easie to be intreated,
+<pb n="19" facs="tcp:168713:12"/> full of mercy and good fruits; without partiality, and without hy<g ref="char:EOLhyphen"/>pocrisie. And the fruit of righteousness is sown in peace, of them that make peace. 1 <hi>Cor.</hi> 3. 3, 4. For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men? For while one saith, I am of Paul, another, I am of Apollo, are ye not carnal? 1 <hi>Cor.</hi> 1. 10. Now, I beseech you brethren, by the Name of our Lord Jesus Christ, that ye all speak the same thing; and that there be no divisions among you: but that ye be perfectly joyned together, in the same mind, and in the same judgment. 2 <hi>Cor.</hi> 13. 11. Finally, brethren, farewel: Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you. 1 <hi>Tim.</hi> 5. 3, 4, 5. If any man teach otherwise, and consent not to wholesome words, even the words, <hi>&amp;c. Read also</hi> Eph. 4. <hi>v.</hi> 1, 2, 3, 4, 5, 6. <hi>Phil.</hi> cap. 2. <hi>v.</hi> 1, 2, 3, 4. 5. <hi>And generally all the Epistles of the holy Apostles of Christ; yea, and the whole Scriptures of truth lead to this duty of making and keeping unity, peace, and brotherly agreement among all the people of God in the World.</hi>
+               </p>
+            </div>
+            <div n="32" type="item">
+               <head>32.</head>
+               <p>That if the faithful Servants of God do their utmost in all uprightness, in the promoting of Church-peace; and some per<g ref="char:EOLhyphen"/>verse pretenders be found, who will not hearken to words of peace; let those pretenders answer their obstinacy to the righteous Judg of all the Earth; but let the servants of God be comforted in this, that they have delivered their own souls, and endeavoured to deliver the Church of God in these Nations from utter desolati<g ref="char:EOLhyphen"/>on, which is coming upon us, as an armed man.</p>
+            </div>
+         </div>
+         <div type="expedient">
+            <pb n="20" facs="tcp:168713:13"/>
+            <head>An (<note n="a" place="margin">This expedi<g ref="char:EOLhyphen"/>ent might be much contta<g ref="char:EOLhyphen"/>cted for gene<g ref="char:EOLhyphen"/>ral use, but that this was drawn to the p<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>esent state of a particular Congregation which stood in need there of.</note>) Expedient for the Reformation of a Parochial Congregation, according to the Word of God, to prevent Offences and Divisions, tendred to the Learned and Godly to judg of, amend and practise, as they think fit.</head>
+            <p>VVE whose Names are here under written, Profes<g ref="char:EOLhyphen"/>sors of the Gospel of Christ, and such as have been baptized into his Name, and thereby <note n="x" place="margin">1. <hi>Cor.</hi> 12. 13.</note> recei<g ref="char:EOLhyphen"/>ved Members of his Catholick Visible Church, whose habitation God hath for the present set within the Parish of <hi>A.</hi> in the County of <hi>B.</hi> calling to mind, and seriously considering, that our <note n="*" place="margin">
+                  <hi>Mar.</hi> 1. 4. <hi>Act.</hi> 13. 24. <hi>Rom.</hi> 6. 3. <hi>Gal.</hi> 3 27.</note> Baptism into Christ, (<note n="a" place="margin">
+                  <hi>Isa.</hi> 42. 6. <hi>with Act.</hi> 3. 25.</note>) as the people of Gods Covenant, doth engage us to hold (<note n="b" place="margin">
+                  <hi>Heb.</hi> 10. 23.</note>) fast the profession of our Faith, without wavering; to deny all (<note n="c" place="margin">
+                  <hi>Tit.</hi> 2. 11, 12, 13, 14.</note>) ungodliness and worldly lusts, and to live. soberly, righteously, and godlily in this present World, looking for that blessed hope, and that glorious appearing of the great God, and our Saviour Jesus Christ, who gave himself for us, that he might redeem us from all iniquity, and purifie to himself a peculiar peo<g ref="char:EOLhyphen"/>ple zealous of good works; having lately been invited by the (<note n="d" place="margin">
+                  <hi>See order of Parliament dat.</hi> 26. <hi>July</hi> 1659.</note>) pre<g ref="char:EOLhyphen"/>sent Government of this Common-wealth, to the great and solemn duty of fasting, and humiliation of our Souls (<note n="e" place="margin">
+                  <hi>Wednesday</hi> 31. <hi>Aug.</hi> 1659.</note>) before the Lord, for the great provocations and sins which have been committed a<g ref="char:EOLhyphen"/>gainst God; and knowing, that real humiliation must shew it self in a thorow reformation of heart and life, and that it is our duty to begin this reformation at home in our selves, if ever we think to have the Land, wherein we live, pardoned and purged of those crying sins, which have demerited those grievous calamities now lying upon both our Church and Nation; have therefore, in the fear of the Lord, with great trembling and astonishment, looked back upon
+<pb n="21" facs="tcp:168713:13"/> our former carriage and conversation, in our respective places; re<g ref="char:EOLhyphen"/>solving (by the Grace of God) to repent, and wash our selves, by the blood and Spirit of Christ, of and from all our former wickedness, ungodliness, and uncharitableness, especially our abuse and contempt of the Gospel, and the p<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iviledges thereof, which we have through the goodness and long suffering of the Lord, plentifully enjoyed. And to the end that we may, (by the Grace of God) walk more cir<g ref="char:EOLhyphen"/>cumspectly for the future, not as fools, but as wise; we have resolved, in imitation of the <note n="(f)" place="margin">
+                  <hi>Deut.</hi> 29. 10. 11, 12, 13, <hi>&amp;c.</hi> 2 <hi>King.</hi> 23. 2, 3. 2 <hi>Chron.</hi> 15. 12. <hi>Nehem.</hi> 9. 38. <hi>Ezra</hi> 10. 3.</note> people of God in former ages, solemnly, and with reverence and godly fear, to renew our Covenant made with God in our Baptisme, both for our selves, and our families; be<g ref="char:EOLhyphen"/>seeching the God of all Grace and truth, for his Son Jesus Christ his sake, our only and blessed Saviour, so to strengthen and assist us by his holy Spirit, that we may sincerely and faithfully keep and ob<g ref="char:EOLhyphen"/>serve the same all the dayes of our lives, without turning from the holy <note n="(g)" place="margin">2 <hi>Pet</hi> 2▪ 21.</note> Gommandment delivered to us.</p>
+            <p>And because we find by sad experience, <note n="(h)" place="margin">
+                  <hi>Pro.</hi> 12. 5. <hi>Jer.</hi> 8. 5. <hi>Mat.</hi> 24. 11, 12. <hi>Jer.</hi> 17. 9. 2 <hi>Cor.</hi> 11. 13. 2 <hi>Eph.</hi> 4. 22. <hi>Mat.</hi> 13. 22. <hi>Heb.</hi> 3. 13.</note> that general and covert terms are not sufficient to engage Professors in this slippery back slyding and divided age, wherein worldly interests have too great an influence on formal gospellers; we have (for further ex<g ref="char:EOLhyphen"/>planation of what God hath set upon our hearts, and to prevent (if it be the will of God to help us therein) our falling into the same ex<g ref="char:EOLhyphen"/>travagancies, which we have publickly confessed before the Lord, on that day of solemn humiliation before spoken of) after serious Ad<g ref="char:EOLhyphen"/>dresses to the Throne of Grace, resolved and agreed upon these par<g ref="char:EOLhyphen"/>ticular heads of Faith and Order.</p>
+            <div n="1" type="item">
+               <head>1. For Faith.</head>
+               <p n="1">1. That our Profession is, and ought ever to be, the True, Chri<g ref="char:EOLhyphen"/>stian, Protestant, Reformed Religion, as the same is clearly <note n="(i)" place="margin">
+                     <hi>Eph.</hi> 2. 20.</note> revealed and set down in the holy Scriptures of the Old and New Testament; which Scriptures we receive as <note n="(k)" place="margin">2 <hi>Pet.</hi> 1. 19. 20, 21.</note> the Word of God, and the only rule of Faith and Life: and believe them to be <note n="(l)" place="margin">2 <hi>Tim.</hi> 3, 15, 16, 17.</note> sufficient, of themselves, to make us wise unto Salvation, by the help <note n="(m)" place="margin">1 <hi>Cor.</hi> 12 11. <hi>Joh.</hi> 6. 63.</note> of the Spirit of Christ.</p>
+               <p n="2">2. That the <note n="(n)" place="margin">
+                     <hi>Heb.</hi> 6. 1.</note> Fundamentals of Christian Religion, touch<g ref="char:EOLhyphen"/>ing the <note n="(o)" place="margin">
+                     <hi>Job.</hi> 17. 3. 1 <hi>Joh.</hi> 5. 7.</note> Essence and Subsistence of the only True God in Tri<g ref="char:EOLhyphen"/>nity and Ʋnity; together with his <note n="(p)" place="margin">
+                     <hi>Exod.</hi> 34. 6, 7.</note> Attributes and <note n="(q)" place="margin">
+                     <hi>Psal.</hi> 19. 1. <hi>Psal.</hi> 92. 5.</note> Works; the <note n="(r)" place="margin">1. <hi>Tim.</hi> 3▪ 16.</note> Person, Natures, Incarnation, Ʋnction, Offices, Life,
+<pb n="22" facs="tcp:168713:14"/> Sufferings, Death, Resurrection, Ascension, Intercession, Second Coming, Judgment, Rule, Gifts, Power, Glory, Benefits, Merits of Jesus Christ the only Son of God, and our Saviour; the (<note n="s" place="margin">
+                     <hi>Joh.</hi> 14. 17, 26. <hi>and</hi> 15. 26.</note>) Nature, Person, Proceeding, Office, Mission, Power, Ʋnction, Fellowship of the holy Ghost; the (<note n="*" place="margin">
+                     <hi>Eph.</hi> 1. 22, 23. <hi>Heb.</hi> 12. 23. 1 <hi>Cor.</hi> 12. 12.</note>) holy Catholick Church, Invisible and Visible, Militant and Triumphant; the (<note n="t" place="margin">1. <hi>Joh.</hi> 1. 3, 7.</note>) Com<g ref="char:EOLhyphen"/>munion of Saints with God in Christ by the Spirit here in Grace, and (<note n="u" place="margin">1 <hi>Joh.</hi> 3. 2.</note>) hereafter in Glory, and their (<note n="w" place="margin">1 <hi>Joh.</hi> 1. 7.</note>) Fellowship one with ano<g ref="char:EOLhyphen"/>ther; the (<note n="x" place="margin">
+                     <hi>Psal.</hi> 32. 1, 2.</note>) Forgiveness of Sins, the (<note n="y" place="margin">
+                     <hi>Act</hi> 24. 15.</note>) Resurrection of the Bo<g ref="char:EOLhyphen"/>dy, and (<note n="z" place="margin">
+                     <hi>Rom.</hi> 6. 23.</note>) Life Everlasting; as they are proved and explained in the Assemblies Catechism, now in use, and the several Con<g ref="char:EOLhyphen"/>fessions and Catechismes of the purest Reformed Churches: are all and every of them plainly, without Controversie, taught in those holy Scriptures, as (<note n="*" place="margin">
+                     <hi>Isa.</hi> 8. 20. Joh. 5. 39.</note>) necessary to be known and believ<g ref="char:EOLhyphen"/>ed by every one that will be saved. And that it is the duty of every Christian, To (<note n="a" place="margin">
+                     <hi>Heb.</hi> 10. 23. 2 <hi>Tim.</hi> 1. 13.</note>) hold and maintain all and every those Fundamentals of Faith and Godliness, with (<note n="b" place="margin">1 <hi>Tim</hi> 15, 19. 2 <hi>Cor.</hi> 1. 12. 1 <hi>Tim.</hi> 3. 9.</note>) purity of mind and Conscience, without degenerating or declining to any Errors, which do either (<note n="c" place="margin">2 <hi>Tim.</hi> 2. 18.</note>) destroy or (<note n="d" place="margin">2. <hi>Cor.</hi> 2. 17.</note>) corrupt that Foundation of Christian Religion.</p>
+            </div>
+            <div n="2" type="item">
+               <head>2. For Order.</head>
+               <p n="1">1. That all the Professors of the Gospel, holding this Doctrine according to Godliness, ought to walk (<note n="e" place="margin">
+                     <hi>Act.</hi> 2. 42. 2 <hi>Cor.</hi> 6. 14, 15, 16. <hi>Act.</hi> 5. 13. <hi>and</hi> 9. 26. <hi>Z<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ch.</hi> 2. 11.</note>) in holy Communion to<g ref="char:EOLhyphen"/>gether in the exercises of their graces, (<note n="f" place="margin">1 <hi>Cor.</hi> 7. 24.</note>) observing the bounds of their particular Callings: for (<note n="*" place="margin">
+                     <hi>Jud. v.</hi> 20. <hi>Eph.</hi> 4. 16. 1. <hi>Pet</hi> 4. 15.</note>) Edification of the Body of Christ, and holy and Spiritual Participation (<note n="g" place="margin">
+                     <hi>Jam.</hi> 2. 2. <hi>Isa.</hi> 4. 5.</note>) of the standing Ordinan<g ref="char:EOLhyphen"/>ces of the Gospel, <hi>viz.</hi> (<note n="h" place="margin">
+                     <hi>Psal.</hi>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>6. 12. <hi>and</hi> 89. 7.</note>) Thanksgiving and Prayer to God; the Word Read, Expounded, Preached; the Sacraments, Bap<g ref="char:EOLhyphen"/>tism and the Lords Supper duly administred. And that Chri<g ref="char:EOLhyphen"/>stian parents are to bring their Children to Baptism, as (<note n="i" place="margin">
+                     <hi>Gal.</hi> 4. 28. <hi>and</hi> 3. 7, 8, 9. <hi>Gen.</hi> 17. 7. <hi>Ez<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>k.</hi> 16. 20, 21. <hi>Mar.</hi> 10. 14, 16</note>) children of the Covenant.</p>
+               <p n="2">2. That such as agree in the Fundamentals of Christian Re<g ref="char:EOLhyphen"/>ligion, before mentioned, though they differ in Circumstances of Church-Order or Discipline, or the Qualification of Church-Members for the participation of Sealing Ordinances, may and ought nevertheless to endeavour to (<note n="k" place="margin">
+                     <hi>Eph.</hi> 4. 3.</note>) keep the unity of the Spirit in the bond of peace; and to walk together in the fellowship of the Gospel in brotherly love, according to that rule, (<note n="l" place="margin">
+                     <hi>Phil.</hi> 3. 16.</note>) whereto we have
+<pb n="23" facs="tcp:168713:14"/> already attained; let us walk by the same rule, let us mind the same thing. And that no difference in opinion should alienate the affections of the Members of Christ's Mystical Body, but that all those who hold the same Head, Christ Jesus, should keep in the fellowship of his Body, the Church, which is one, without divid<g ref="char:EOLhyphen"/>ing or separation one from another, waiting for, and endeavouring after an holy agreement in all things, when the Lord shall gra<g ref="char:EOLhyphen"/>ciously please to give it. And in the mean time to bear one ano<g ref="char:EOLhyphen"/>thers burdens, and so fulfil the Law of Christ, without unchari<g ref="char:EOLhyphen"/>table or censorious judging one of another before the time.</p>
+               <p n="3">3. That the apostatizing or declining of any Professor from the sound and saving Doctrine of godliness, revealed in the Word of God; either in part or whole; to any Heresie, Schism or un<g ref="char:EOLhyphen"/>godly Separation, is unfeignedly to be repented of, as a grievous sin in the sight of the Lord.</p>
+               <p n="4">4. That every Professor, in his place, is to maintain the pra<g ref="char:EOLhyphen"/>ctice of Piety, both privately and publickly, by Reading, Hear<g ref="char:EOLhyphen"/>ing and Meditation of the Word, godly Conference, Prayer, Thanks<g ref="char:EOLhyphen"/>giving, and holy Conversation: and to this end, that all Christi<g ref="char:EOLhyphen"/>an Parents, and Heads of Families, are constantly and conscionably to maintain the practice of Piety with their Children and Servants in their family, and all within their gates, on the Lords day wholly, so far as the duties of publick Worship will permit, on every week day morning and evening, and at all other convenient times, by reading the Word, Prayer, Singing of Psalms, Con<g ref="char:EOLhyphen"/>ference for further instruction or edification, Catechizing, Repe<g ref="char:EOLhyphen"/>tition of Sermons, calling Children or Servants to account of their profiting by the Word, and other godly exercises commended to their practice and care by the holy Scriptures. And not to allow themselves, or those under their charge, in the wilful neglect of any holy exercise in its season. And that we ought, every one of us▪ to examine our selves, and speedily to repent and reform our neglect of duty this way.</p>
+               <p n="5">5. That the First day of every week is the Lords day, or Christian Sabbath sanctified by God, and reserved to himself, as his holy day; and is therefore solely and wholly to be spent in an holy rest from sin, worldly labour and recreation (except works of necessity and mercy) and religious performance of the duties of Gods Wor<g ref="char:EOLhyphen"/>ship,
+<pb n="24" facs="tcp:168713:15"/> both private and publick, in their place. Wherein we judg that Publick duties of Divine Worship are first, and private next<g ref="char:EOLhyphen"/>ly to be regarded: and that the prophaning of the whole, or any part of that day, by thinking our own thoughts, speaking our own words, or doing our own deeds, is a grievous sin, even one of the common and cry<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng sins of our people and times, for which we are to be greatly humbled as the nursery of impiety.</p>
+               <p n="6">6. That the Moral Law, contained in the ten Commandments, written in <hi>Exod.</hi> 20. repeated in <hi>Deut.</hi> 5. confirmed and explained by Christ, <hi>Mat.</hi> 22. and <hi>Mat.</hi> 5. in the spiritual sense and extent of it, is the rule of mans obedience to God; according to which eve<g ref="char:EOLhyphen"/>ry professor of the Gospell ought to comform himself in faith and love which is in Christ Jesus.</p>
+               <p n="7">7. That the plat-form of Prayer, given by Christ to his Disci<g ref="char:EOLhyphen"/>ples, commonly called the Lords Prayer, is a perfect rule for Thanksgiving and Prayer to God, which ought therefore to be learn<g ref="char:EOLhyphen"/>ed, and understood by Professors, according to which they ought to frame all their spiritual praises, and Prayers, not neglecting other Scripture-examples of that nature, which are also of the same use, being written for our learning.</p>
+               <p n="8">8. That the Ministers of the Gospel may, and ought, to study to shew themselves approved, rightly dividing the word of truth; being instant in season and out of season, by sound doctrine convin<g ref="char:EOLhyphen"/>cing all gainsayers; lifting up their voyces like trumpets, telling Gods people of their sins; and particularly reproving the sins of the times, according to the ability God hath given them: in which they are to have all due countenance and encouragement from their hearers, without being reviled, reproached, slandered or maligned by any Professors, for the faithful discharge of their duty: That they are also to hold a careful oversight, over the flock committed to them; and be a good example to them in their conversation, faith<g ref="char:EOLhyphen"/>fully dispensing the ordinances of Christ, as there is occasion. And in case of their willful neglect, or unfaithfulness, they may be re<g ref="char:EOLhyphen"/>verently, and lovingly admonished by any Professor that shall know their miscarriage, and further proceeded against, according to the Word, in case of obstinate impenitency, if the heinousness of the Crime so require.</p>
+               <p n="9">
+                  <pb n="25" facs="tcp:168713:15"/> 9. That it is the duty of all Christians, in the place where God hath set them, carefully to watch over the Conversations of one ano<g ref="char:EOLhyphen"/>ther, and, as occasion serveth, to reprove, exhort, admonish, comfort, and relieve one another in the Lord; and that with tenderness, meekness, boldness, and brotherly love; all which services of love are thankfully and kindly to be accepted by those, to whom they are performed.</p>
+               <p n="10">10. That Christians walking in holy fellowship, are to have a special care at all times, to behave themselves wisely, peaceably, honestly, to all those, who are not yet joyned to their fel<g ref="char:EOLhyphen"/>lowship, and toward all men; that by their harmless and unblama<g ref="char:EOLhyphen"/>ble lives, they may, if possible, win those, who, for the present, are o<g ref="char:EOLhyphen"/>therwise minded; and however, put to silence the ignorance of foo<g ref="char:EOLhyphen"/>lish men; as free, and not using their liberty for a Cloak of mali<g ref="char:EOLhyphen"/>ciousness.</p>
+               <p n="11">11. That any idolatrous, or superstitious act or custome, pro<g ref="char:EOLhyphen"/>phane swearing or cursing or forswearing, unreverent use of Gods name or attributes, or wilful neglect, or abuse, of any of Gods Or<g ref="char:EOLhyphen"/>dinances, or servants, prophanation of the Lords day, diso<g ref="char:EOLhyphen"/>bedience to parents, natural, civil, political, spiritual; malicious, or murderours counsel or practise, incest, adultery, fornication, ri<g ref="char:EOLhyphen"/>baldry, or wantonness, abuse of Gods creatures by riot, drunken<g ref="char:EOLhyphen"/>ness, or excess of apparel, theft, fraud, idleness, or unlawful sports, lying, slandering, backbiting, false accusing, or false witness bear<g ref="char:EOLhyphen"/>ing and all covetous practises to the damage of others; are by the Gospel of Christ, adjudged scandalous sins, which one Professor in Com<g ref="char:EOLhyphen"/>munion ought not to suffer in his brother, but ought to deal with him for it, according to our Saviours rule, <hi>Mat.</hi> 18. 15, 16, 17. <hi>verses.</hi> And generally, whatsoever else is contrary to the blessed Gospel of our Lord Jesus which we professe, and under the cognizance of others; wherein, nevertheless, care would be had, that Christians take not offence upon others report, without certain knowledg of the fact, and some Word of God to evince the sinfulness of it; and that a difference be put between sins of infirmity, and wilful transgressions.</p>
+               <p n="12">12. That all Christian prudent care is to be taken from time to time by every Professor of the Gospel in his place and calling, for the reverent and due Administration, and Participation of the seals of the Covenant, Baptisme, and the Lords Supper, and preserving them from Prophanation and contempt, by ignorant or scandalous
+<pb n="26" facs="tcp:168713:16"/> Persons; observing therein the rules of piety and charity given to us in the Old and New Testament. And that all heads of Chri<g ref="char:EOLhyphen"/>stian Families shall begin betimes to instruct their children, ser<g ref="char:EOLhyphen"/>vants and other relations under their Government, in the principles of Christian Religion and the right ends and uses of those sacred Mysteries; to the end, that all baptised Persons may, if it be pos<g ref="char:EOLhyphen"/>sible, so soon as they come to ripe years, yield a professed subjection to the Lord Jesus, and be confirmed in the Covenant of Grace, by their Participation of the Lords Supper, and personally engaged to conti<g ref="char:EOLhyphen"/>nue to walk in holy fellowship with the Church of God ever after.</p>
+               <p n="13">13. And lastly, that every professo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Gospel walking in this holy fellowship, ought in all the foregoing duties, and all things else, to order his whole heart and Conversation, according to the Will of God, revealed in the holy Scripture; without turning, either to the right hand, or to the left. <hi>And as many as walk according to this rule, peace be on them, and mercy, and upon the Israel of God. Gal.</hi> 6. 16.</p>
+            </div>
+            <div type="suggestions_for_implementation">
+               <head>Some Directions for the Practise of the former Expe<g ref="char:EOLhyphen"/>dient.</head>
+               <p n="1">1. THat the Minister of every Parochial Congregation do with all convenient speed, after his taking on him Pa<g ref="char:EOLhyphen"/>storal charge, publickly move and invite the flock committed to him, to the solemne renewal of their Covenant in Bap<g ref="char:EOLhyphen"/>tisme.</p>
+               <p n="2">2. That afterward he do advise with the most knowing Christians in his Parish and other neighboring godly Ministers, about the drawing up and composing some such form of sound words, as be<g ref="char:EOLhyphen"/>fore, from the holy Scriptures, to be publickly, in the close of some solemn day of Humiliation (having before in the publick Exercise humbly confessed and repented before the Lord all the violations of that Covenant, which the people of his Charge have been guil<g ref="char:EOLhyphen"/>ty of) distinctly read unto the people, and commended to their consideration, to the end that if any thing can be objected from the Word of God, either against the whole, or any part of what
+<pb n="27" facs="tcp:168713:16"/> is so propounded, it may be also considered, and that fit time and place be given for the hearing and reconciling all doubts and scruples, that the people may be better satisfied in their consci<g ref="char:EOLhyphen"/>ence about what they do.</p>
+               <p n="3">3. That when the form of their renewing their Covenant, as afore, shall be fully agreed on, then some convenient time be appointed for the better preparation of the people for this great work, which may be (if so thought fit) kept as a day of Fasting and Prayer for that purpose. In the close whereof, the agreement be openly read again, and consent taken thereto by every individual person that shall agree to it. The manner of which consent is left to Christian prudence.</p>
+               <p n="4">4. That the next Lords day, if it may be convenient, the Lords Supper be administred to all that joyn in the renewal of their Co<g ref="char:EOLhyphen"/>venant as before.</p>
+               <p n="5">5. That a remembrance be kept in the Parish Book of all the material passages of this transaction, under which shall be set down the names of all that consent thereunto, either at first or at any time after, together with the day and year thereof, that succeeding Ministers may certainly know the state of the flock, and how to carry on this good work in peace and love.</p>
+               <p n="6">6. That this solemn renewal of Covenant, being thus trans<g ref="char:EOLhyphen"/>acted, the people be from time to time, as there shall be occasi<g ref="char:EOLhyphen"/>on, put in mind of it, by their Ministers, and that every Chri<g ref="char:EOLhyphen"/>stian in his place do carefully observe it, and help his brethren so to do what he can.</p>
+               <p n="7">7. That when any person shall afterward profess his subjection to Christ, he shall also signifie his consent to the Covenant of Grace, so renewed as aforesaid, in such way as shall be observed by the Church with whom he walks. In all which every Christi<g ref="char:EOLhyphen"/>an should study unity, peace and order, without contentious stand<g ref="char:EOLhyphen"/>ing for his own apprehension in circumstantials.</p>
+               <p n="8">8. That it be accounted sufficient for aged or grave persons, who have formerly received the Lords Supper, to signifie their consent to the Covenant renewed, in the several parts thereof; yet so as it may be left to them, if they please, by a religious dis<g ref="char:EOLhyphen"/>course or profession of faith, according to the ability given them by Christ, to declare their proficiency and subjection to the Lord
+<pb n="28" facs="tcp:168713:17"/> Jesus. But that the children of the Church be every one obliged to give a particular account of their knowledge of the mysterie of Christ, as well as consent to the Covenant, before they receive the Lords Supper.</p>
+            </div>
+            <div type="conclusion">
+               <head>Conclusion.</head>
+               <p>These thoughts <hi>(Christian Reader)</hi> are commended to thee for thy perusal and practise, out of a very tender re<g ref="char:EOLhyphen"/>spect to the Glorie of God, and the furtherance of thy sal<g ref="char:EOLhyphen"/>vation; more to stir up others more wise and skilful in the Word of Righteousness, to lay themselvs out in seeking the Reformation, Healing and Settlement of the Church of Christ in these Nations, then out of any opinion that the Author hath of the Infallibility of these Essayes. To which end, <hi>I commend thee to God, and the Word of his Grace, which is able to build thee up, and to give thee an Inheritance among all them which are sanctified,</hi> Acts 20. 32.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <trailer>Trin-uni Deo gloria in Excelsis.</trailer>
+      </body>
+   </text>
+</TEI>
